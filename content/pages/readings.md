@@ -30,7 +30,7 @@ Goldberg, Natalie. "Why Do I Write?" In _Writing Down the Bones: Freeing the Wri
 
 Leitch, Will. "Why I Write."
 
-Williams, Terry Tempest. "Why I Write." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://rvannoy.asp.radford.edu/rvn/312/whyiwrite.pdf))
+Williams, Terry Tempest. "Why I Write." ([PDF](http://rvannoy.asp.radford.edu/rvn/312/whyiwrite.pdf))
 
 
 {{< tdclose >}}
@@ -59,7 +59,7 @@ Sanders, Scott Russell. "[The Inheritance of Tools](https://www.frontiercsd.org/
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Moody, Rick. "Boys." In _Demonology: Stories_. New York, NY: Back Bay Books, 2002. ISBN: 9780316592109. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://katey.schultz.googlepages.com/boys1.pdf))
+Moody, Rick. "Boys." In _Demonology: Stories_. New York, NY: Back Bay Books, 2002. ISBN: 9780316592109. ([PDF](http://katey.schultz.googlepages.com/boys1.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -129,7 +129,7 @@ No readings
 {{< tdopen >}}
 
 
-Barry, Dave. "Lost in the Kitchen." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.sausd.us/cms/lib/CA01000471/Centricity/Domain/457/Lost%20in%20the%20Kitchen%20DB.pdf))
+Barry, Dave. "Lost in the Kitchen." ([PDF](https://www.sausd.us/cms/lib/CA01000471/Centricity/Domain/457/Lost%20in%20the%20Kitchen%20DB.pdf))
 
 Fazier, Ian. [_Dating Your Mom_](http://www.newyorker.com/magazine/1978/07/03/dating-your-mom). New York, NY: Picador, 2003. ISBN: 9780312421526.
 

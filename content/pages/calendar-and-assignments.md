@@ -127,7 +127,7 @@ Continue with expert essay.
 
 Workshops 1 and 2
 
-Read and discuss "Boys"  by Rick Moody (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://katey.schultz.googlepages.com/boys1.pdf))
+Read and discuss "Boys"  by Rick Moody ([PDF](http://katey.schultz.googlepages.com/boys1.pdf))
 
 
 {{< tdclose >}}
@@ -279,7 +279,7 @@ Workshop class' microfiction / OuLiPo
 
 {{< tdclose >}}
 {{< tdopen >}}
-Read "Lost in the Kitchen" by Dave Barry (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://kmartino.weebly.com/uploads/3/0/4/5/30458006/lost_in_the_kitchen.pdf))
+Read "Lost in the Kitchen" by Dave Barry ([PDF](http://kmartino.weebly.com/uploads/3/0/4/5/30458006/lost_in_the_kitchen.pdf))
 {{< tdclose >}}
 {{< tdopen >}}
 Microfiction due
